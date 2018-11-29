@@ -1,0 +1,4 @@
+ldamodels/
+w2vmodels/
+data/
+.DS_STORE
